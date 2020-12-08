@@ -21,6 +21,12 @@ Engine.        : VIKAS
 Fuel.          :UDMH+N204
 MAX.Thrust.    :799kN
 
+FIRST STAGE PS1:
+PSLV uses the S139 solid rocket motor that is argumented by 6 solis strap-on boosters
+Engine.           :S139
+Fuel.             :HTPB
+MAX.Thrust.       :4800kN
+
 
 
 
